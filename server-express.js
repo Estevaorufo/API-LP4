@@ -8,7 +8,7 @@ const express = require('express');
 
 // configuração de acesso ao servidor
 const localhost = '127.0.0.1';
-const port = 3000;
+const port = 5000;
 
 // criação do aplicativo servidor
 const app = express();
